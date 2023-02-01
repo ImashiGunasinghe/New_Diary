@@ -1,0 +1,43 @@
+.header {
+  padding: 80px; 
+  text-align: center; 
+  background: yellow; 
+  color: black; 
+}
+
+
+.header h1 {
+  font-size: 40px;
+}
+
+.body {
+	padding-top: 20px;
+	font-size: 20px;
+}
+
+.abc{
+	
+}
+
+#tb {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tb td, #tb th {
+  border: 1px solid #ddd;
+  padding: 4px;
+}
+#tb tr:nth-child(even){background-color: #f2f2f2;}
+
+#tb tr:hover {background-color: #ddd;}
+
+#tb th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #9FA5AD ;
+  color: white;
+}
+
